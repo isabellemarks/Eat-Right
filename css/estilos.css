@@ -1,0 +1,64 @@
+body {
+	margin-left: 2%;
+	margin-right: 2%;
+	text-align: justify;
+	font-family: Trebuchet, "Century Gothic", Arial, "Comic Sams";
+	font-size: 20px;
+	background-color: #e8fcfc;
+}
+
+footer {
+	text-align: center;
+	background-color: #d6fbfc;
+	padding: 2%;
+	color: #727272;
+}
+
+#logo {
+	background-image: url(../img/logo.png);
+	background-repeat: no-repeat;
+	padding-top: 0%;
+	padding-bottom: 25%;
+	padding-right: 20%;
+	padding-left: 0%;
+	margin-right: 0%;
+	margin-left: 15%;
+}
+
+#indent{
+	text-indent: 2em;
+}
+
+h1 {
+	color: 	#FF0000;
+	text-align: center;
+}
+
+img {
+	margin-left: 25%;
+}
+
+#menu a {
+	text-decoration: none;
+	font-size: 16px;
+}
+
+#menu ul li{
+	display: inline-block;
+	padding-top: 2%;
+	padding-bottom: 2%;
+	padding-left: 5%;
+	padding-right: 5%;
+	font-weight: bold;
+	margin-left: 4%;
+}
+
+#menu ul li a{
+	color: #727272;
+}
+
+#menu ul li a:hover {
+	color: #000;
+	font-weight: bold;
+	border-bottom: 3px solid #EA9629;
+}
